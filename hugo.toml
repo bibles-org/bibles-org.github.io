@@ -4,6 +4,8 @@ baseURL = 'https://bibles-org.github.io'
 title = 'Bibles'
 theme = 'hugo-book'
 
+defaultContentLanguage = 'en'
+
 # Book configuration
 disablePathToLower = true
 enableGitInfo = true
