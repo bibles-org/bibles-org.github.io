@@ -15,8 +15,8 @@ bookCollapseSection = false
 bookComments = true
 +++
 
-# {{ replace .File.ContentBaseName "-" " " | title }}
+{{< metadata >}}
 
 ---
 
-*Published on {{ dateFormat "June 6, 2001" .Date }}*
+# {{ replace .File.ContentBaseName "-" " " | title }}

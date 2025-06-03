@@ -1,6 +1,6 @@
 +++
 title = 'First'
-date = '2025-06-03T05:36:15+03:00'
+date = '2025-06-03T06:13:42+03:00'
 draft = true
 author = 'King Terry'
 description = 'The CIA will be executed by A10 fist of god'
@@ -15,8 +15,8 @@ bookCollapseSection = false
 bookComments = true
 +++
 
-# First
+{{< metadata >}}
 
 ---
 
-*Published on June 6, 3006*
+# First
