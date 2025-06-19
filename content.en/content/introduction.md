@@ -1,7 +1,9 @@
----
-title: "Introduction"
-date: 2025-06-03T15:43:19-04:00
-#draft: true
----
++++
+title = "Introduction"
+date = 2025-06-19T08:00:00-00:00
+bookCollapseSection = false
++++
 
-# Introduction
+{{< metadata >}}
+
+---
